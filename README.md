@@ -1,0 +1,1 @@
+A simple and responsive BMI Calculator built using HTML, CSS, and JavaScript. Users can input height and weight to calculate their Body Mass Index (BMI), with instant results showing health categories (Underweight, Normal, Overweight, Obese). Lightweight, fast, and easy to use.
